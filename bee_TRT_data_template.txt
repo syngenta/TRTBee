@@ -1,0 +1,10 @@
+You can give some details of the experiment in this cell. Data should be entered as \mug/bee							
+Survival time [d]	Control	T1	T2	T3	T4	T5	?Add extra or delete as necessary (including this cell)?
+							
+							
+							
+							
+							
+Concentration unit:		\mug/bee					
+Concentration time [d]	Control	T1	T2	T3	T4	T5	?Add extra or delete as necessary (including this cell)?. Names must match those in row 2
+For constant exposure set time to 0 here and fill constant concentrations along the row. For variable exposure enter multiple rows							
